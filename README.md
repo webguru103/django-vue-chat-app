@@ -3,14 +3,14 @@
 </p>
 
 
-- [1. constructionBevy](#1-constructionBevy)
+- [1. ConstructionBevy Test](#1-constructionBevy-test)
   - [1.1. Running the code](#11-running-the-code)
     - [1.1.1. Vue](#111-vue)
     - [1.1.2. Django](#112-django)
     - [1.1.3. RabbitMQ](#113-rabbitmq)
     - [1.1.4. WebSocket server](#114-websocket-server)
 
-# 1. constructionBevy
+# 1. ConstructionBevy Test
 
 Real time Chat application built with Vue, Django, RabbitMQ and uWSGI WebSockets.
 
